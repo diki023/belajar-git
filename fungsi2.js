@@ -8,3 +8,6 @@ console.log(subtrak(7,3))
 
 const multiplay = (a,b) => a * b;
 console.log(multiplay(2,3))
+
+const divide = (c,d) => c / d;
+console.log(divide(4,2))
